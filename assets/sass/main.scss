@@ -1070,6 +1070,19 @@ body {
     }
 }
 
+.page {
+    &__text {
+        display: block;
+        margin-top: 45px;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 26px;
+        letter-spacing: -0.03em;
+
+        color: #000000;
+    }
+}
+
 .category {
     padding-top: 30px;
 
